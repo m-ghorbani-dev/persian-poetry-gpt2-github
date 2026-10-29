@@ -1,0 +1,15 @@
+# Model artifacts and checkpoints
+artifacts/
+outputs/
+checkpoint-*/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Python/Jupyter temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
